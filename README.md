@@ -1,3 +1,6 @@
+![Warren&Charlie](https://www.gannett-cdn.com/presto/2019/05/03/USAT/5ce47758-8fdd-4bb2-9abd-8742318621a3-6106.jpg?crop=6000,4000,x0,y0&width=1320&height=880&format=pjpg&auto=webp)
+
+
 # brk_annual_letter
 fetching Warren Buffett's shareholder letters.
 
